@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Marvin Castillo and I'm currently working at Scale AI as a Data Analyst.
-- 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning more about Python and statistics :D.
+- 👋 Hi, I’m Marvin Castillo and I'm currently working at Graviti, a startup, as a Data Scientist.
+- 👀 I’m interested in Machine Learning and filmmaking.
+- 🌱 I’m currently learning more about deploying ML projects with Python.
 
 <!---
 EfedeX/EfedeX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
