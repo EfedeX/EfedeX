@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marvin Castillo and I'm currently working at Graviti, a startup, as a Data Scientist.
+- 👋 Hi, I’m Marvin Castillo and I'm currently working at PayJoy as a Data Scientist Associate.
 - 👀 I’m interested in Machine Learning and filmmaking.
 - 🌱 I’m currently learning more about deploying ML projects with Python.
 
