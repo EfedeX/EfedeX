@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Marvin Castillo and I'm currently working at PayJoy as a Data Scientist Associate.
+- 👋 Hi, I’m Marvin Castillo and I'm a Data Scientist Associate Engineer at PayJoy.
 - 👀 I’m interested in Machine Learning and filmmaking.
-- 🌱 I’m currently learning more about deploying ML projects with Python.
+- 🌱 I love dynamical systems for some reason. Modeling complex mechanical, electrical or hidraulic systems is something I'm eager to do someday.
 
 <!---
 EfedeX/EfedeX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
