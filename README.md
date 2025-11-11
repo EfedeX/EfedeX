@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Marvin Castillo and I'm a Data Scientist Associate Engineer at PayJoy.
-- 👀 I’m interested in Machine Learning and filmmaking.
+- I'm a ML Engineer at PayJoy.
+- I’m interested in Machine Learning and filmmaking.
 - 🌱 I love dynamical systems for some reason. Modeling complex mechanical, electrical or hidraulic systems is something I'm eager to do someday.
 
 <!---
